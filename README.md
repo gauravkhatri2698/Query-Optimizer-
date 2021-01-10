@@ -1,2 +1,2 @@
-# Query-Optimizer-
-B-Tree used at it's full potential. 
+# Query-Optimizer-Using-Indexing
+B-Tree used at it's full potential.
